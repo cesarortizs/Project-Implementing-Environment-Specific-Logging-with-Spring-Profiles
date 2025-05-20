@@ -29,7 +29,7 @@ The applications has a logger that will record all the relevant events in the ap
 <br><br><br>
 **API endpoints and sample requests for testing**
 <br><br>
-The application has five endpoints:
+The application has three endpoints:
 <br><br><br>
 *GET /users*
 <br><br>
