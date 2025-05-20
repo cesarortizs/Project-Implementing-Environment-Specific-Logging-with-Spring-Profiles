@@ -1,0 +1,2 @@
+84863 [http-nio-8083-exec-3] ERROR com.activity.four.Controllers.UserController - -Internal server error
+104030 [http-nio-8083-exec-4] ERROR com.activity.four.Controllers.UserController - -Resource not found
